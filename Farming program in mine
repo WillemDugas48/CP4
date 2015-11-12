@@ -36,6 +36,9 @@ for n = 1, 6 do      --Repeats the snake 12 times to clear out the 12x12
   turtle.down()
   turtle.down()
   turtle.down()
+  turtle.turnLeft()
+  turtle.forward()
+  turtle.turnRight()
 end
 
 NewSoil
@@ -98,6 +101,11 @@ end
    turtle.forward()
    end
    turtle.turnLeft()
+   turtle.turnRight()
+   turtle.forward()
+   turtle.turnLeft()
+ 
+
 end
 
 TheHydrator
@@ -134,8 +142,10 @@ turtle.select( 1 )      --Places last bucket and returns to original place
 turtle.turnLeft()
 turtle.placeDown()
 
-end 
-
+turtle.turnLeft()
+turtle.up()
+turtle.forward()
+turtle.turnRight()
 
 
 PlantWheat
