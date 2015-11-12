@@ -1,4 +1,6 @@
 # CP4
-The realest code.
-Come over here for the realest code in the CP4 class. 
-  I promise you won't be disappointed.
+This page is for my Computer Programming class at Loyola.
+Day 1:I'm lost...
+Day 2: Help me...
+Day 3: Please I need Arduino help...
+Day 4: Don't let me fail
